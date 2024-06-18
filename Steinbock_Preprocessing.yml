@@ -1,0 +1,4 @@
+threshold: true
+percentile: 99
+normalize: true
+kernel size: 128
